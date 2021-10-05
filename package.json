@@ -16,6 +16,11 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^1.0.0",
+    "prettier": "^2.4.1",
     "vite": "^2.6.0"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
   }
 }
